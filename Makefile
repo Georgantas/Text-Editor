@@ -1,4 +1,5 @@
 BUILDDIR=build
 
-$(BUILDDIR)/kilo.o: kilo.c
-	$(CC) kilo.c -o $(BUILDDIR)/kilo.o -Wall -Wextra -pedantic -std=c99
+texteditor: texteditor.c
+	mkdir -p $(BUILDDIR)
+	$(CC) texteditor.c -o $(BUILDDIR)/texteditor.o -Wall -Wextra -pedantic -std=c99
