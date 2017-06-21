@@ -1,2 +1,5 @@
-## Text Editor
-This project is a terminal text editor written in C. Inspired by the kilo text editor found at http://viewsourcecode.org/snaptoken/kilo.
+# Demo
+https://youtu.be/yCVh7mTHmyU
+
+# About
+Text Editor is a terminal text editor written in C. Inspired by the Kilo text editor found at http://viewsourcecode.org/snaptoken/kilo.
